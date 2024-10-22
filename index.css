@@ -1,0 +1,16 @@
+.greeting {
+  height: 100vh;
+  background-color: #0f172a;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 200px;
+  width: 200px;
+}
+.heading {
+  font-family: Roboto;
+  color: #ffffff;
+}
